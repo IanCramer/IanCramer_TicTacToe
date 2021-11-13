@@ -1,11 +1,6 @@
-
-
-
 import tkinter
 from TicTacToe import TicTacToe
 from GUI import GUI
-
-
 
 
 
@@ -18,6 +13,7 @@ def main():
 
 	# Enter the main event loop
 	root.mainloop()
+
 
 
 if __name__ == '__main__':

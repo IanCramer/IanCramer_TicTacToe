@@ -5,6 +5,8 @@ from Minimax_Algorithm import minimax
 
 
 
+
+
 class TicTacToe(object):
 
 	def __init__(self):
