@@ -1,9 +1,4 @@
-
-
-
 from Minimax_Algorithm import minimax
-
-
 
 
 
